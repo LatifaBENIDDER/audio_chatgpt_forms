@@ -1,0 +1,14 @@
+1- Installation de Python
+2- Installation des dépendances du projet :
+   Utilisez la commande pip pour installer les dépendances répertoriées dans le fichier requirements.txt 
+   pip install -r requirements.txt
+3- Accédez au site web de Deepgram (https://www.deepgram.com/) et créez un compte utilisateur si vous n'en avez pas déjà un.
+4- Connectez-vous à votre compte Deepgram et accédez à la section "API Keys" (clés d'API) ou à un onglet similaire où vous pouvez gérer vos clés d'API.
+5- Générez une nouvelle clé d'API en suivant les instructions fournies par Deepgram. Cela peut impliquer de fournir un nom de projet, une description ou d'autres informations supplémentaires.
+6- Une fois la clé d'API générée, assurez-vous de la conserver en lieu sûr. Elle sera utilisée pour authentifier vos requêtes API vers Deepgram.
+7- Accédez au site web OpenAI (https://www.openai.com/) et connectez-vous à votre compte.
+8- Une fois connecté, accédez à la section "API" ou à un onglet similaire où vous pouvez gérer vos clés d'API.
+9- Si vous n'avez pas encore créé un projet, suivez les instructions pour créer un nouveau projet.
+10- Dans la section du projet, recherchez l'option pour générer une nouvelle clé d'API. 
+11- Une fois la clé d'API générée, assurez-vous de la conserver en lieu sûr. Elle sera utilisée pour authentifier vos requêtes API vers ChatGPT.
+12- il faut suivre les etapes dans cette documentation pour generer le fichier "client-secrets" apartir de google forms "https://developers.google.com/forms/api/quickstart/python?hl=fr"
